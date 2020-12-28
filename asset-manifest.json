@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NumberGuesser_React/static/css/main.2c394d6a.chunk.css",
+    "main.js": "/NumberGuesser_React/static/js/main.3426fb1f.chunk.js",
+    "main.js.map": "/NumberGuesser_React/static/js/main.3426fb1f.chunk.js.map",
+    "runtime-main.js": "/NumberGuesser_React/static/js/runtime-main.34de8d08.js",
+    "runtime-main.js.map": "/NumberGuesser_React/static/js/runtime-main.34de8d08.js.map",
+    "static/js/2.835d6e51.chunk.js": "/NumberGuesser_React/static/js/2.835d6e51.chunk.js",
+    "static/js/2.835d6e51.chunk.js.map": "/NumberGuesser_React/static/js/2.835d6e51.chunk.js.map",
+    "static/js/3.72133c72.chunk.js": "/NumberGuesser_React/static/js/3.72133c72.chunk.js",
+    "static/js/3.72133c72.chunk.js.map": "/NumberGuesser_React/static/js/3.72133c72.chunk.js.map",
+    "index.html": "/NumberGuesser_React/index.html",
+    "static/css/main.2c394d6a.chunk.css.map": "/NumberGuesser_React/static/css/main.2c394d6a.chunk.css.map",
+    "static/js/2.835d6e51.chunk.js.LICENSE.txt": "/NumberGuesser_React/static/js/2.835d6e51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34de8d08.js",
+    "static/js/2.835d6e51.chunk.js",
+    "static/css/main.2c394d6a.chunk.css",
+    "static/js/main.3426fb1f.chunk.js"
+  ]
+}
